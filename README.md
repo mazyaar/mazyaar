@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **info@cyberred.org**
 
-- 📄 Know about my experiences. ![Resume](https://github.com/mazyaar/mazyaar/blob/main/maziyar_CV_NEW_2025_Full.pdf)
+- 📄 Know about my experiences. [Resume](https://github.com/mazyaar/mazyaar/blob/main/maziyar_CV_NEW_2025_Full.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
